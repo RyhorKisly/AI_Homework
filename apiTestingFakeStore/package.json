@@ -1,0 +1,24 @@
+{
+  "name": "fake-store-api-tester",
+  "version": "1.0.0",
+  "description": "API testing tool for validating Fake Store API product data",
+  "main": "src/apiTester.js",
+  "scripts": {
+    "start": "node src/apiTester.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "api",
+    "testing",
+    "validation",
+    "fake-store"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+} 

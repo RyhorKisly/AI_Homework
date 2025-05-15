@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-05-15T08:49:42.169Z",
+  "api_url": "https://fakestoreapi.com/products",
+  "server_response": {
+    "status": true,
+    "message": ""
+  },
+  "data_validation": {
+    "total_products": 20,
+    "products_with_defects": 0,
+    "defects": []
+  }
+}
